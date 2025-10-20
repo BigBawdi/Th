@@ -1,0 +1,29 @@
+# Core scientific stack
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.4.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Machine learning / boosting
+xgboost>=2.0.0
+
+# Optional deep learning (for Week 4)
+torch>=2.3.0
+tensorflow>=2.16.0
+
+# Network packet simulation (for Week 6)
+scapy>=2.5.0
+
+# Utility & environment
+jupyterlab>=4.1.0
+notebook>=7.0.0
+joblib>=1.3.0
+tqdm>=4.66.0
+
+# Code formatting / linting (optional)
+black>=24.0.0
+flake8>=7.0.0
+
